@@ -1,8 +1,8 @@
 {
-  "name": "My name",
-  "description": "Description of my robot controller program.",
+  "name": "Pioneer 3-DX by Mishchuk",
+  "description": "Це тестовий контролер для робота з диференційним приводои Pioneer 3-DX.",
   "team": ["Name of Team Member 1", "Name of Team Member 2", "etc."],
-  "organization": "My Company or University",
-  "country": "ISO 3166-1 alpha-2 country code",
+  "organization": "Robolab KNUCA by Kyiv National Universitu of Construction and Architecture",
+  "country": "ISO 3166-1 alpha-2 38",
   "programming": "Python"
 }
